@@ -10,4 +10,10 @@ class docInfo:
         self.docID = doc
         self.word_freq = 0
         self.indices = []
+        self.tf = 0
         self.tf_idf = 0
+        self.url = ""
+        self.total_terms = 0 
+        
+        
+        
