@@ -33,7 +33,7 @@ temp_batch = 0
 
 index = defaultdict(list) 
 
-sys.setrecursionlimit(5000)   # Delete this line if your laptop can tank the recursion, my laptop cannot
+sys.setrecursionlimit(5000)
 
 #nltk.download('stopwords')
 #nltk.download('punkt')

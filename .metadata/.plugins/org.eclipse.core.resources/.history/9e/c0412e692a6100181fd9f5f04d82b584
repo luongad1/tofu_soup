@@ -18,7 +18,7 @@ import numpy as np
 import sys
 # https://pythonhosted.org/pickleDB/commands.html
 import pickledb 
-#db = pickledb.load('inverted_index.db', False)
+db = pickledb.load('inverted_index.db', False)
 
 
 
@@ -33,7 +33,7 @@ temp_batch = 0
 
 index = defaultdict(list) 
 
-sys.setrecursionlimit(5000)   # Delete this line if your laptop can tank the recursion, my laptop cannot
+sys.setrecursionlimit(5000)
 
 #nltk.download('stopwords')
 #nltk.download('punkt')
