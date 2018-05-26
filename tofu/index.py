@@ -70,9 +70,8 @@ def process_line(index, file_line, docID, web_url):
         doc_post = posting.docInfo(docID)
         doc_post.word_freq = temp[token][0] #Word frequency
         doc_post.indices = temp[token][1] #List of indices
-        doc_post.total_terms = index_num
-        doc_post.url = web_url
-        
+        doc_post.total_terms = index_num # Number of words in each doc ( to calculate TF)
+        doc_post.url = web_url # The original url of the document
         #Add specific document info to token list
         index[token].append(doc_post)
         
@@ -163,6 +162,12 @@ def search_query(terms):
     for term in terms:
         print("The first url retrieved from the term \'"+term+"\' :")
         docpost_list = index[term.lower()]
+        
+        ###########
+        ####    INSERT THE FUNCTION FOR GRADING SUCH AS TF-IDF HERE
+        ############
+        
+        # List the top 10 result
         for doc in docpost_list[:10]:
             print(" --- " + doc.url )
             
@@ -172,11 +177,17 @@ def search_query(terms):
          
 if __name__ == '__main__':
     init_index()
+    # Instead of asking for query, Just directly import the query for testing
+    
+    
+    ###########
+    ####    INSERT THE FUNCTION that prompt user for quary here, including dicing
+    ############
+    
     search_query(["Informatics", "Mondego", "Irvine"])
     
     
-    
-    # -------- Ask user for Query --------
+
     
     
     # -------- Search database/file and output Query information --------
