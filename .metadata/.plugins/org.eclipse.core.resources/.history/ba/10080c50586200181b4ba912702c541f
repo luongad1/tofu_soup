@@ -8,9 +8,8 @@ from collections import OrderedDict
 import pickledb
 import codecs
 import webbrowser, os
-from flask import Flask, request, render_template
+from flask import Flask
 app = Flask(__name__)
-@app.route('/')
 @app.route('/search', methods=['POST'])
 
 def search_query(terms):
@@ -77,17 +76,16 @@ def search_query(terms):
  
  
  #for html using flask       
-def search():
+def handle_data():
     query = request.form['searchbox']
     return query    
 
-def home(page_name):
-    return render_template("index.html")
-
 if __name__ == '__main__':
-    app.run()
+    
     #query = raw_input("Input a query to search for: ")
-    query = search()
+
+    
+    query = handle(data)
     queries = query.split(" ")
     search_query(queries)
     
