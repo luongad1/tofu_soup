@@ -6,10 +6,10 @@ Created on May 27, 2018
 
 from collections import OrderedDict
 import pickledb
-import cgi
 import codecs
-#form = cgi.FieldStorage()
-#searchterm =  form.getvalue('searchbox')
+import webbrowser, os
+import cgi
+form = cgi.FieldStorage()
 
 
 def search_query(terms):
@@ -53,16 +53,43 @@ def search_query(terms):
         ####    INSERT THE FUNCTION FOR GRADING SUCH AS TF-IDF HERE
         ############
         
+        result_queries = ""
+        
         # List the top 10 result
         for result in sorted_index[:10]:
             print("tfidf score: " + str(result[1])+"---" + result[3])
+            result_queries += "<br><h3>     "+ str(result[3])+"</h3."
+            
+    
+    
+        #Create a new page and print
+        f = open('result.html','w')
+
+        message = """<html>
+        <head></head>
+        <body>"""+result_queries+"""</body></html>"""
+    
+        f.write(message)
+        f.close()
         
+        webbrowser.open('file://' + os.path.realpath("result.html"))
+ 
+ 
+ #for html using flask       
+
+    
 
 if __name__ == '__main__':
-    query = raw_input("Input a query to search for: ")
+    
+    #query = raw_input("Input a query to search for: ")
+
+    query =  form.getvalue('searchbox')
     
     queries = query.split(" ")
     search_query(queries)
     
+    
+
+
     
     

@@ -13,10 +13,12 @@
 <div class="center">
   <h2>Enter the quary you wish to search for:</h2>
   <br>
-  <input class="search-bar" action="/query2.py" id="query" type="text" placeholder="EX: Informatics">
-  <br>
-  <br>
-  <input type="submit" class="button" value="Search">
+  <form action="/query2.py" method="get">
+    <input class="search-bar" name="searchbox" type="text" placeholder="EX: Informatics">
+    <br>
+    <br>
+    <input type="submit" class="button" value="Search">
+  </form>
 </div>
 
 
