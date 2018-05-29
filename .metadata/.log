@@ -6412,3 +6412,241 @@ Binding(ALT+COMMAND+R,
 !ENTRY org.eclipse.m2e.logback.appender 4 0 2018-05-28 13:02:55.749
 !MESSAGE xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
 
+!SESSION 2018-05-28 20:46:03.830 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/DavidLin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/DavidLin/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-05-28 20:46:12.731
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2018-05-28 20:46:13.903
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-05-28 20:46:13.903
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@b144175,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@38923cfe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-05-28 20:46:18.349
+!MESSAGE xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-05-28 20:46:18.390
+!MESSAGE xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+!SESSION 2018-05-28 20:50:42.019 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/DavidLin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/DavidLin/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-05-28 20:50:49.999
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2018-05-28 20:50:50.923
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-05-28 20:50:50.923
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1468e880,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@508f4bb5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-05-28 20:50:54.473
+!MESSAGE xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-05-28 20:50:54.486
+!MESSAGE xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+!ENTRY org.python.pydev.shared_core 4 4 2018-05-28 20:53:27.203
+!MESSAGE Info: Rebuilding internal caches: /Users/DavidLin/Documents/GitHub/tofu_soup/.metadata/.plugins/org.eclipse.core.resources/.projects/real-tofu/com.python.pydev.analysis/AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+!SESSION 2018-05-28 21:31:30.555 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/DavidLin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/DavidLin/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-05-28 21:31:42.503
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2018-05-28 21:31:43.435
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-05-28 21:31:43.435
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@29c80149,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@14ad42,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-05-28 21:31:45.786
+!MESSAGE xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-05-28 21:31:45.811
+!MESSAGE xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+!SESSION 2018-05-28 21:35:37.619 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/DavidLin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/DavidLin/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-05-28 21:35:43.445
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2018-05-28 21:35:44.411
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-05-28 21:35:44.412
+!MESSAGE A conflict occurred for ALT+COMMAND+R:
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27dc81be,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+COMMAND+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3595086b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-05-28 21:35:46.929
+!MESSAGE xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2018-05-28 21:35:46.956
+!MESSAGE xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+
+!ENTRY org.python.pydev.shared_core 4 4 2018-05-28 22:06:44.753
+!MESSAGE ERROR reading shell.
+ProcessInfo:
+
+ - Executed: /usr/local/bin/python -u /Users/DavidLin/.p2/pool/plugins/org.python.pydev_5.3.1.201610311318/pysrc/pycompletionserver.py 59257
+
+ - Environment:
+APP_ICON_16325=../Resources/Eclipse.icns
+Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.aRX5oR8phZ/Render
+HOME=/Users/DavidLin
+JAVA_STARTED_ON_FIRST_THREAD_16325=1
+LOGNAME=DavidLin
+PATH=/usr/bin:/bin:/usr/sbin:/sbin
+PYTHONPATH=/Users/DavidLin/.p2/pool/plugins/org.python.pydev_5.3.1.201610311318/pysrc/pydev_sitecustomize:/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7:/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin:/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac:/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages:/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk:/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload:/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages
+SHELL=/bin/bash
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.GUpLb0qeXM/Listeners
+TMPDIR=/var/folders/7t/9x15fyvs351887k0rcp6zq940000gn/T/
+USER=DavidLin
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=org.eclipse.platform.ide.34680
+__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0
+
+ - Working Dir:
+/Applications/Eclipse.app/Contents/Eclipse/../../../../Users/DavidLin/.p2/pool/plugins/org.python.pydev_5.3.1.201610311318/pysrc
+
+ - OS:
+Mac OS X
+
+ - Std output:
+
+
+ - Err output:
+
+!STACK 0
+java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:202)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:478)
+	at java.nio.channels.Channels.writeFullyImpl(Channels.java:78)
+	at java.nio.channels.Channels.writeFully(Channels.java:98)
+	at java.nio.channels.Channels.access$000(Channels.java:61)
+	at java.nio.channels.Channels$1.write(Channels.java:174)
+	at java.io.OutputStream.write(OutputStream.java:75)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.write(AbstractShell.java:544)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.writeAndGetResults(AbstractShell.java:691)
+	at org.python.pydev.editor.codecompletion.shell.AbstractShell.getImportCompletions(AbstractShell.java:756)
+	at org.python.pydev.editor.codecompletion.revisited.modules.CompiledModule.createInnerFromServer(CompiledModule.java:342)
+	at org.python.pydev.editor.codecompletion.revisited.modules.CompiledModule.getGlobalTokens(CompiledModule.java:542)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:750)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:575)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:544)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:535)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:525)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:758)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:575)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:544)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:535)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:525)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:740)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:575)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:544)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:535)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:525)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.internalGenerateGetCompletionsForModule(AbstractASTManager.java:740)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:575)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:544)
+	at org.python.pydev.editor.codecompletion.revisited.AbstractASTManager.getCompletionsForModule(AbstractASTManager.java:535)
+	at org.python.pydev.editor.codecompletion.revisited.modules.SourceModule.findGlobalTokDef(SourceModule.java:1034)
+	at org.python.pydev.editor.codecompletion.revisited.modules.SourceModule.findDefinitionsFromModAndTok(SourceModule.java:983)
+	at org.python.pydev.editor.codecompletion.revisited.modules.SourceModule.findDefinition(SourceModule.java:965)
+	at org.python.pydev.editor.codecompletion.revisited.modules.SourceModule.findDefinition(SourceModule.java:678)
+	at org.python.pydev.editor.codecompletion.revisited.modules.SourceModule.findDefinition(SourceModule.java:1)
+	at org.python.pydev.editor.refactoring.PyRefactoringFindDefinition.findActualDefinition(PyRefactoringFindDefinition.java:182)
+	at org.python.pydev.editor.refactoring.PyRefactoringFindDefinition.findActualDefinition(PyRefactoringFindDefinition.java:81)
+	at org.python.pydev.editor.hover.PyDocstringTextHover.getDocstringHover(PyDocstringTextHover.java:100)
+	at org.python.pydev.editor.hover.PyDocstringTextHover.getHoverInfo(PyDocstringTextHover.java:58)
+	at org.python.pydev.editor.hover.PydevCombiningHover.getHoverInfo(PydevCombiningHover.java:152)
+	at org.python.pydev.editor.hover.PyEditorTextHoverProxy.getHoverInfo(PyEditorTextHoverProxy.java:59)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:167)

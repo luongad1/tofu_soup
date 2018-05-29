@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_TRIdMVuuEeiw48RrOj0qoA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_TRIdMluuEeiw48RrOj0qoA" bindingContexts="_TRIdNFuuEeiw48RrOj0qoA">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;query2.py&quot; tooltip=&quot;tofu/query2.py&quot;>&#xA;&lt;persistable path=&quot;/tofu/query2.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;query.py&quot; tooltip=&quot;tofu/query.py&quot;>&#xA;&lt;persistable path=&quot;/tofu/query.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;inverted_index.db&quot; tooltip=&quot;tofu/inverted_index.db&quot;>&#xA;&lt;persistable path=&quot;/tofu/inverted_index.db&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;Analytics.txt&quot; tooltip=&quot;tofu/Analytics.txt&quot;>&#xA;&lt;persistable path=&quot;/tofu/Analytics.txt&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;posting.py&quot; tooltip=&quot;tofu/posting.py&quot;>&#xA;&lt;persistable path=&quot;/tofu/posting.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;index.py&quot; tooltip=&quot;tofu/index.py&quot;>&#xA;&lt;persistable path=&quot;/tofu/index.py&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;search-with-gui.py&quot; tooltip=&quot;real-tofu/search-with-gui.py&quot;>&#xA;&lt;persistable path=&quot;/real-tofu/search-with-gui.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;query2.py&quot; tooltip=&quot;real-tofu/query2.py&quot;>&#xA;&lt;persistable path=&quot;/real-tofu/query2.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;query2.py&quot; tooltip=&quot;tofu/query2.py&quot;>&#xA;&lt;persistable path=&quot;/tofu/query2.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;query.py&quot; tooltip=&quot;tofu/query.py&quot;>&#xA;&lt;persistable path=&quot;/tofu/query.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;inverted_index.db&quot; tooltip=&quot;tofu/inverted_index.db&quot;>&#xA;&lt;persistable path=&quot;/tofu/inverted_index.db&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;Analytics.txt&quot; tooltip=&quot;tofu/Analytics.txt&quot;>&#xA;&lt;persistable path=&quot;/tofu/Analytics.txt&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;posting.py&quot; tooltip=&quot;tofu/posting.py&quot;>&#xA;&lt;persistable path=&quot;/tofu/posting.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;index.py&quot; tooltip=&quot;tofu/index.py&quot;>&#xA;&lt;persistable path=&quot;/tofu/index.py&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_TRIdMluuEeiw48RrOj0qoA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_TmsdgluuEeiw48RrOj0qoA" label="%trimmedwindow.label.eclipseSDK" x="0" y="23" width="986" height="877">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_TRIdMluuEeiw48RrOj0qoA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_TmsdgluuEeiw48RrOj0qoA" label="%trimmedwindow.label.eclipseSDK" x="181" y="26" width="1250" height="877">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -152,6 +152,7 @@
             <children xsi:type="basic:PartSashContainer" xmi:id="_h2FTcGJIEeiIOqiG_d2LiA" containerData="5000" selectedElement="_V_F4RluuEeiw48RrOj0qoA">
               <children xsi:type="advanced:Placeholder" xmi:id="_V_F4RVuuEeiw48RrOj0qoA" elementId="org.eclipse.ui.editorss" containerData="6195" ref="_TufuoFuuEeiw48RrOj0qoA"/>
               <children xsi:type="basic:PartStack" xmi:id="_V_F4RluuEeiw48RrOj0qoA" elementId="bottom" containerData="3805" selectedElement="_V_F4SFuuEeiw48RrOj0qoA">
+                <tags>noFocus</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_V_F4R1uuEeiw48RrOj0qoA" elementId="org.eclipse.search.ui.views.SearchView" toBeRendered="false" ref="_TurU0FuuEeiw48RrOj0qoA"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_V_F4SFuuEeiw48RrOj0qoA" elementId="org.eclipse.ui.console.ConsoleView" ref="_TurU0VuuEeiw48RrOj0qoA"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_V_F4SVuuEeiw48RrOj0qoA" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_TurU0luuEeiw48RrOj0qoA"/>
@@ -191,23 +192,17 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_TufuoFuuEeiw48RrOj0qoA" elementId="org.eclipse.ui.editorss" selectedElement="_TufuoVuuEeiw48RrOj0qoA">
-      <children xsi:type="basic:PartStack" xmi:id="_TufuoVuuEeiw48RrOj0qoA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_3vctEGJAEeiIOqiG_d2LiA">
+      <children xsi:type="basic:PartStack" xmi:id="_TufuoVuuEeiw48RrOj0qoA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_PNtvQGL6Eei2yo4lk8jjfA">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_3vctEGJAEeiIOqiG_d2LiA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="query2" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;query2.py&quot; partName=&quot;query2&quot; title=&quot;query2&quot; tooltip=&quot;tofu/query2.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/tofu/query2.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2327&quot; selectionTopPixel=&quot;1326&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_PNtvQGL6Eei2yo4lk8jjfA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="search-with-gui" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;search-with-gui.py&quot; partName=&quot;search-with-gui&quot; title=&quot;search-with-gui&quot; tooltip=&quot;real-tofu/search-with-gui.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/real-tofu/search-with-gui.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2180&quot; selectionTopPixel=&quot;838&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.python.pydev.editor.PythonEditor</tags>
           <tags>removeOnHide</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_k4rXMGJHEeiIOqiG_d2LiA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="query" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;query.py&quot; partName=&quot;query&quot; title=&quot;query&quot; tooltip=&quot;tofu/query.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/tofu/query.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;102&quot; selectionOffset=&quot;3473&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -342,7 +337,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_V_DcAFuuEeiw48RrOj0qoA" elementId="org.python.pydev.navigator.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="PyDev Package Explorer" iconURI="platform:/plugin/org.python.pydev/icons/pydev_package_explorer.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.python.pydev.navigator.ui.PydevPackageExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.python.pydev"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1526766484492&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/DavidLin/Documents/GitHub/tofu_soup/tofu&quot;/>&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1526766484492&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/DavidLin/Documents/GitHub/tofu_soup/real-tofu&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/DavidLin/Documents/GitHub/tofu_soup/tofu&quot;/>&#xA;&lt;selected IMemento.internal.id=&quot;/Users/DavidLin/Documents/GitHub/tofu_soup/real-tofu/search-with-gui.py&quot;/>&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:PyDev</tags>
       <menus xmi:id="_V_aBUFuuEeiw48RrOj0qoA" elementId="org.python.pydev.navigator.view">
@@ -358,7 +353,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ToHZ0FuuEeiw48RrOj0qoA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_GiZSoGKyEeidu8o1KWI3zA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_TRxWjluuEeiw48RrOj0qoA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_wDCb8GL5Eei2yo4lk8jjfA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_TRxWjluuEeiw48RrOj0qoA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ToHZ0VuuEeiw48RrOj0qoA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -385,7 +380,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ToHZ1VuuEeiw48RrOj0qoA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Gibu4GKyEeidu8o1KWI3zA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_TRwvi1uuEeiw48RrOj0qoA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_wDE4MGL5Eei2yo4lk8jjfA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_TRwvi1uuEeiw48RrOj0qoA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ToIA4FuuEeiw48RrOj0qoA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -813,7 +808,7 @@
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_TSjZh1uuEeiw48RrOj0qoA" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.debug.ui.VariableView"/>
     </bindings>
-    <bindings xmi:id="_GKtycWKyEeidu8o1KWI3zA" keySequence="COMMAND+CTRL+F" command="_TTHaMVuuEeiw48RrOj0qoA"/>
+    <bindings xmi:id="_vwf6cWL5Eei2yo4lk8jjfA" keySequence="COMMAND+CTRL+F" command="_TTHaMVuuEeiw48RrOj0qoA"/>
   </bindingTables>
   <bindingTables xmi:id="_TSXzU1uuEeiw48RrOj0qoA" elementId="org.eclipse.jdt.ui.javaEditorScope" bindingContext="_TR1n4FuuEeiw48RrOj0qoA">
     <bindings xmi:id="_TSXzVFuuEeiw48RrOj0qoA" keySequence="COMMAND+SHIFT+C" command="_TRvha1uuEeiw48RrOj0qoA"/>
@@ -1018,7 +1013,7 @@
     <bindings xmi:id="_TSgWPFuuEeiw48RrOj0qoA" keySequence="COMMAND+SHIFT+O" command="_TRr26VuuEeiw48RrOj0qoA"/>
   </bindingTables>
   <bindingTables xmi:id="_TTIBQ1uuEeiw48RrOj0qoA" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_TRJEQVuuEeiw48RrOj0qoA">
-    <bindings xmi:id="_GKuZgGKyEeidu8o1KWI3zA" keySequence="M1+W" command="_TTIBQVuuEeiw48RrOj0qoA"/>
+    <bindings xmi:id="_vwghgGL5Eei2yo4lk8jjfA" keySequence="M1+W" command="_TTIBQVuuEeiw48RrOj0qoA"/>
   </bindingTables>
   <bindingTables xmi:id="_Tuhj0FuuEeiw48RrOj0qoA" bindingContext="_Tug8wFuuEeiw48RrOj0qoA"/>
   <bindingTables xmi:id="_Tuhj0luuEeiw48RrOj0qoA" bindingContext="_Tuhj0VuuEeiw48RrOj0qoA"/>
